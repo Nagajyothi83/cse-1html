@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,
+     initial-scale=1.0">
+    <link rel="stylesheet" href="clock.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="clock">
+        <div id="hours"></div>
+        <div id="minutes"></div>
+        <div id="seconds"></div>
+    </div>
+    <div class="time" id="timeDisplay">
+
+    </div>
+
+</body>
+<script src="script.js"></script>
+</html>
